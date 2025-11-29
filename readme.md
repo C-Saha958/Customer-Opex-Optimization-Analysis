@@ -5,6 +5,10 @@ This project analyzes customer shopping behavior to restructure marketing and pr
 
 The core finding is that blanket discounts are inefficient, eroding margin without increasing basket size. By focusing on quantifiable Opex control, this analysis delivers an immediate, actionable strategy to restore profitability.
 
+## Final Dashboard Screenshot
+
+![Final Opex Dashboard Screenshot](dashboard/Dashboard.jpeg)
+
 # The Business Problem
 
 The challenge was to answer: How can the company strategically restructure its Operational Expenditure (Opex) on marketing and promotions to maximize profit margins and increase Customer Lifetime Value (CLV)?
