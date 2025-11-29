@@ -1,0 +1,5 @@
+# ignore notebooks and python scripts you don't want pushed
+*.ipynb
+*.py
+/data/
+.DS_Store
