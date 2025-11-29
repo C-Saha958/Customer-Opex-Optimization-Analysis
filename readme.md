@@ -81,6 +81,6 @@ Final Report: Customer Shopping Behavior Analysis_ Optimizing Operational Expend
   
   SQL: MySQL Workbench   
   
-  Techniques: Data Cleaning, Feature Engineering, Segmentation, CLV Modeling, Opex Optimization |
+  Techniques: Data Cleaning, Feature Engineering, Segmentation, CLV Modeling, Opex Optimization 
   
   Deliverables: PPT, Notebook, SQL output, Business report
