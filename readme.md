@@ -60,18 +60,18 @@ This project demonstrates proficiency across the modern data stack:
 Jupyter Notebook: Customer_Shopping_Behavior_Analysis.ipynb (Python cleaning, robust feature engineering, CLV modeling, and data visualization.)
 
 SQL Queries: customer-sales-data-analysis.sql 
-            Contains 23 queries including:
+           ( Contains 23 queries including:
             ~ Margin erosion analysis
             ~ Category & geography insights
             ~ Payment behavior
             ~ Customer segmentation
             ~ Revenue attribution
-            ~ Subscription behavior
+            ~ Subscription behavior )
             
 Final Report: Customer Shopping Behavior Analysis_ Optimizing Operational Expenditure (Opex).pdf (The full business narrative.)
 
 ## Tools & Technologies: 
-  Python: Pandas, NumPy, Matplotlib, Seaborn
-  SQL: MySQL Workbench
-  Techniques: Data Cleaning, Feature Engineering, Segmentation, CLV Modeling, Opex Optimization
+  Python: Pandas, NumPy, Matplotlib, Seaborn | 
+  SQL: MySQL Workbench |  
+  Techniques: Data Cleaning, Feature Engineering, Segmentation, CLV Modeling, Opex Optimization |
   Deliverables: PPT, Notebook, SQL output, Business report
