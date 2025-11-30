@@ -78,7 +78,7 @@ SQL Queries: [customer-sales-data-analysis.sql]
     
             ~ Subscription behavior 
             
-Final Report: [Customer Shopping Behavior Analysis_ Optimizing Operational Expenditure (Opex).pdf] (The full business narrative.)
+Final Report: [Report_Customer Shopping Behavior Analysis_Optimizing Operational Expenditure.pdf] (The full business narrative.)
 
 ## Tools & Technologies: 
   Python: Pandas, NumPy, Matplotlib, Seaborn 
