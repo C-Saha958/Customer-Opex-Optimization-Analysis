@@ -61,9 +61,9 @@ These actions directly restore margin, save the quantified Opex cost, and guide 
 # Technical Appendix
 This project demonstrates proficiency across the modern data stack:
 
-Jupyter Notebook: Customer_Shopping_Behavior_Analysis.ipynb (Python cleaning, robust feature engineering, CLV modeling, and data visualization.)
+Jupyter Notebook: [Customer_Shopping_Behavior_Analysis.ipynb] (Python cleaning, robust feature engineering, CLV modeling, and data visualization.)
 
-SQL Queries: customer-sales-data-analysis.sql 
+SQL Queries: [customer-sales-data-analysis.sql] 
              Contains 23 queries including:
 
             ~ Margin erosion analysis
@@ -78,7 +78,7 @@ SQL Queries: customer-sales-data-analysis.sql
     
             ~ Subscription behavior 
             
-Final Report: Customer Shopping Behavior Analysis_ Optimizing Operational Expenditure (Opex).pdf (The full business narrative.)
+Final Report: [Customer Shopping Behavior Analysis_ Optimizing Operational Expenditure (Opex).pdf] (The full business narrative.)
 
 ## Tools & Technologies: 
   Python: Pandas, NumPy, Matplotlib, Seaborn 
